@@ -1,0 +1,20 @@
+Added Pin To Net: NetName=VCC Pin=DS3-8
+Added Pin To Net: NetName=VCC Pin=DS4-8
+Added Pin To Net: NetName=VCC Pin=DS5-3
+Added Pin To Net: NetName=VCC Pin=DS5-8
+Added Pin To Net: NetName=VCC Pin=DS6-3
+Added Pin To Net: NetName=VCC Pin=DS6-8
+Added Pin To Net: NetName=VCC Pin=DS7-3
+Added Pin To Net: NetName=VCC Pin=DS7-8
+Added Pin To Net: NetName=VCC Pin=DS8-3
+Added Pin To Net: NetName=VCC Pin=DS8-8
+Added Member To Class: ClassName=Sheet1 Member=Component *1 7805to263
+Added Member To Class: ClassName=Sheet1 Member=Component IC2 7447
+Added Member To Class: ClassName=Sheet1 Member=Component IC3 7447
+Added Member To Class: ClassName=Sheet1 Member=Component IC4 7447
+Added Member To Class: ClassName=Sheet1 Member=Component IC5 7447
+Added Member To Class: ClassName=Sheet1 Member=Component IC6 7447
+Added Member To Class: ClassName=Sheet1 Member=Component IC7 7447
+Added Member To Class: ClassName=Sheet1 Member=Component IC8 7447
+Added Member To Class: ClassName=Sheet1 Member=Component R38 10k
+Added Room: Name=Sheet1

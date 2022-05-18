@@ -1,0 +1,33 @@
+Added Component: Designator=STM1(STM32F103CT6)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=A3 Pin=STM1-7
+Added Pin To Net: NetName=A4 Pin=STM1-8
+Added Pin To Net: NetName=A5 Pin=STM1-9
+Added Pin To Net: NetName=A6 Pin=STM1-10
+Added Pin To Net: NetName=A7 Pin=STM1-11
+Added Pin To Net: NetName=5v Pin=STM1-12
+Added Pin To Net: NetName=RST Pin=STM1-13
+Added Pin To Net: NetName=GND Pin=STM1-14
+Added Pin To Net: NetName=5v Pin=STM1-15
+Added Pin To Net: NetName=B0 Pin=STM1-16
+Added Pin To Net: NetName=B1 Pin=STM1-17
+Added Pin To Net: NetName=B9 Pin=STM1-21
+Added Pin To Net: NetName=B8 Pin=STM1-22
+Added Pin To Net: NetName=B7 Pin=STM1-23
+Added Pin To Net: NetName=B6 Pin=STM1-24
+Added Pin To Net: NetName=B5 Pin=STM1-25
+Added Pin To Net: NetName=B4 Pin=STM1-26
+Added Pin To Net: NetName=B3 Pin=STM1-27
+Added Pin To Net: NetName=A15 Pin=STM1-28
+Added Pin To Net: NetName=A12 Pin=STM1-29
+Added Pin To Net: NetName=A11 Pin=STM1-30
+Added Pin To Net: NetName=A8 Pin=STM1-31
+Added Pin To Net: NetName=GND Pin=STM1-32
+Added Pin To Net: NetName=RST Pin=STM1-33
+Added Pin To Net: NetName=A10 Pin=STM1-34
+Added Pin To Net: NetName=A9 Pin=STM1-35
+Added Pin To Net: NetName=B15 Pin=STM1-36
+Added Pin To Net: NetName=B14 Pin=STM1-37
+Added Pin To Net: NetName=B13 Pin=STM1-38
+Added Pin To Net: NetName=B12 Pin=STM1-39
+Added Member To Class: ClassName=Sheet1 Member=Component STM1 STM32F103CT8

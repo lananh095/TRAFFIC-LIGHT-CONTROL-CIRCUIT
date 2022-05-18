@@ -1,0 +1,4 @@
+Added Component: Designator=IC??(ic74ls47)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "7447 , 74247"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Sheet1 Member=Component IC?? 7447
